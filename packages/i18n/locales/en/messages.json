@@ -1,11 +1,11 @@
 {
   "extensionDescription": {
-    "description": "Extension description",
-    "message": "Chrome extension boilerplate developed with Vite, React and Typescript"
+    "description": "Cursor-like UI Meets Chrome Extension",
+    "message": "Cursor-like UI Meets Chrome Extension"
   },
   "extensionName": {
-    "description": "Extension name",
-    "message": "Chrome extension boilerplate"
+    "description": "Wonder Extension",
+    "message": "Wonder Extension"
   },
   "toggleTheme": {
     "message": "Toggle theme"
